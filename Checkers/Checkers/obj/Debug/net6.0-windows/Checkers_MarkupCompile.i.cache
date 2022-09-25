@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Overlord\git\chess\Checkers\Checkers\obj\Debug\net6.0-windows\
+C:\Users\Overlord\git\checkers\Checkers\Checkers\obj\Debug\net6.0-windows\
 Checkers
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-C:\Users\Overlord\git\chess\Checkers\Checkers\App.xaml
+C:\Users\Overlord\git\checkers\Checkers\Checkers\App.xaml
 3-1243438937
 
 7-1422612343
 194-200944676
 MainWindow.xaml;PlayerName.xaml;Window1.xaml;
 
-True
+False
 

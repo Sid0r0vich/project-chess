@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Overlord\\git\\chess\\Checkers\\Checkers\\Checkers.csproj",
+      "projectUniqueName": "C:\\Users\\Overlord\\git\\checkers\\Checkers\\Checkers\\Checkers.csproj",
       "projectName": "Checkers",
-      "projectPath": "C:\\Users\\Overlord\\git\\chess\\Checkers\\Checkers\\Checkers.csproj",
+      "projectPath": "C:\\Users\\Overlord\\git\\checkers\\Checkers\\Checkers\\Checkers.csproj",
       "packagesPath": "C:\\Users\\Overlord\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Overlord\\git\\chess\\Checkers\\Checkers\\obj\\",
+      "outputPath": "C:\\Users\\Overlord\\git\\checkers\\Checkers\\Checkers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Overlord\\AppData\\Roaming\\NuGet\\NuGet.Config",
